@@ -1,0 +1,2 @@
+# getaw
+proname
